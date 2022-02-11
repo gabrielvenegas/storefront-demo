@@ -1,0 +1,97 @@
+{
+  "configVersion": 1,
+  "timestamp": 1644544861397,
+  "index": "https://gabrielvenegas.github.io/storefront-demo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://gabrielvenegas.github.io/storefront-demo/494.10f198867fa4b4fca0e3.js",
+        "https://gabrielvenegas.github.io/storefront-demo/565.80451b602db03243ad72.js",
+        "https://gabrielvenegas.github.io/storefront-demo/592.67a933906e06648e1dc3.js",
+        "https://gabrielvenegas.github.io/storefront-demo/favicon.ico",
+        "https://gabrielvenegas.github.io/storefront-demo/index.html",
+        "https://gabrielvenegas.github.io/storefront-demo/main.5e561fe9ad84f4872668.js",
+        "https://gabrielvenegas.github.io/storefront-demo/polyfills-es5.fd6c20c46b67e55c0595.js",
+        "https://gabrielvenegas.github.io/storefront-demo/polyfills.a521375d66988be8cbff.js",
+        "https://gabrielvenegas.github.io/storefront-demo/runtime.08cb24ca40cde76b0733.js",
+        "https://gabrielvenegas.github.io/storefront-demo/styles.6756387ec1c6927ad176.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://gabrielvenegas.github.io/storefront-demo/assets/cube-logo-line-icon-nostroke.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/default-skin.css",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/default-skin.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/default-skin.svg",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-128x128.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-144x144.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-152x152.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-192x192.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-384x384.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-512x512.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-72x72.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-96x96.png",
+        "https://gabrielvenegas.github.io/storefront-demo/assets/preloader.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://gabrielvenegas.github.io/storefront-demo/494.10f198867fa4b4fca0e3.js": "36d90b7e5d9d3a100b4fcfae27a61344b46c8e61",
+    "https://gabrielvenegas.github.io/storefront-demo/565.80451b602db03243ad72.js": "a202ce3c55bcea1a46b47c53bce59b22c66d596f",
+    "https://gabrielvenegas.github.io/storefront-demo/592.67a933906e06648e1dc3.js": "90cdffeae0947162d095cb3b22c57a3e62b97734",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/cube-logo-line-icon-nostroke.png": "c0c2488fa02081b545d474f7aae50f5b73636402",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/default-skin.css": "5763bd1a8015774f37215359bfcb5edd65d198a6",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/default-skin.png": "ed95a8e40a2c3478c5915376acb8e5f33677f24d",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/default-skin.svg": "2ac727c9e092331d35cce95af209ccfac6d4c7c7",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-128x128.png": "90206b85b93fa86243c626cb459570aa4ac87157",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-144x144.png": "6c860a28af52171939ad3ef7dbda6b75f71ce28f",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-152x152.png": "b2a5d35eb4e2860ecd6f2947c835da3e23873404",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-192x192.png": "037bebdf95e028296ac88274fe8f7c57ea9b1770",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-384x384.png": "b38c87e3fff04e62d081e12714630bf0eecc812f",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-512x512.png": "2e4a5b98486b1183c69f551d32ba69e9a4ef18aa",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-72x72.png": "6db6f7699a0d6ab0df779a07777f99eea7c9906b",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/icons/icon-96x96.png": "c284e37155850ec7493fa17c3c62e4538b98845e",
+    "https://gabrielvenegas.github.io/storefront-demo/assets/preloader.gif": "6342367c93c82da1b9c620e97c84a389cc43d96d",
+    "https://gabrielvenegas.github.io/storefront-demo/favicon.ico": "2f6e85a59bb2ed62b03085a505da94f58858a877",
+    "https://gabrielvenegas.github.io/storefront-demo/index.html": "1c5190c108e975a22c8803ad4e3ba920d8fd0e25",
+    "https://gabrielvenegas.github.io/storefront-demo/main.5e561fe9ad84f4872668.js": "dd94824a0372a0f343cec43b5e7ec71ff63508d0",
+    "https://gabrielvenegas.github.io/storefront-demo/polyfills-es5.fd6c20c46b67e55c0595.js": "75f8961c77b51689e3db85928cd4b68b6e3e5996",
+    "https://gabrielvenegas.github.io/storefront-demo/polyfills.a521375d66988be8cbff.js": "bb59ac6a5c34781cd3f6b8ed2aed9d3cb309ec7a",
+    "https://gabrielvenegas.github.io/storefront-demo/runtime.08cb24ca40cde76b0733.js": "59b9d2502457baee83f0c91bdab661fb8f44906e",
+    "https://gabrielvenegas.github.io/storefront-demo/styles.6756387ec1c6927ad176.css": "c9766b45805a41e1b56d0a7728dca94280b7e9ed"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
